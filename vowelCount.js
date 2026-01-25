@@ -5,4 +5,4 @@ const vowelCount = (string) => {
   );
   return filtaredVowels.length;
 };
-console.log(vowelCount("dhusaidlhi"));
+console.log(vowelCount("programming"));
